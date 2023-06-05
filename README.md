@@ -13,7 +13,7 @@ The following files of the sample application has been modified according to the
   - TO-DO
 
 ### Requirements
-- Java 11 
+- Java 11/17
 - Flutter 3.4.0-17.2.pre • channel beta • https://github.com/flutter/flutter.git
 Framework • revision d6260f127f (8 months ago) • 2022-09-21 13:33:49 -0500
 Engine • revision 3950c6140a
